@@ -1,0 +1,2 @@
+Enter distance travelled(lyrs), and the speed of craft (fraction of c): the time taken to reach the planet as seen from Earth: 4.343 yrs
+Length contracted to 0.6065896 lyrs and takes 0.6127168 yrs
